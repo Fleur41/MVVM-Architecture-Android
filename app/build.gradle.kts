@@ -59,6 +59,8 @@ dependencies {
     implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.5.1")
     implementation("com.google.dagger:dagger:2.42")
+    implementation("androidx.appcompat:appcompat:1.7.0")
+    implementation("androidx.compose.material3:material3-android:1.3.1")
     kapt("com.google.dagger:dagger-compiler:2.42")
     implementation("androidx.browser:browser:1.4.0")
 
