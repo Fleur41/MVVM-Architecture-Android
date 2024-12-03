@@ -8,7 +8,6 @@ import dagger.Provides
 import com.simon.mvvm_architecture_android.data.repository.TopHeadlineRepository
 import com.simon.mvvm_architecture_android.di.ActivityContext
 import com.simon.mvvm_architecture_android.ui.base.ViewModelProviderFactory
-import com.simon.mvvm_architecture_android.ui.topheadline.TopHeadlineAdapter
 import com.simon.mvvm_architecture_android.ui.topheadline.TopHeadlineViewModel
 
 @Module
